@@ -1,0 +1,18 @@
+--- SVM ---
+Accuracy: 96.41%
+Positive Cases Correct: 144 / 147
+Negative Cases Correct: 44 / 48
+False Positives (Healthy labeled as PD): 4
+False Negatives (PD labeled as Healthy): 3
+--- Random Forest ---
+Accuracy: 98.46%
+Positive Cases Correct: 146 / 147
+Negative Cases Correct: 46 / 48
+False Positives (Healthy labeled as PD): 2
+False Negatives (PD labeled as Healthy): 1
+--- CNN ---
+Accuracy: 75.38%
+Positive Cases Correct: 147 / 147
+Negative Cases Correct: 20 / 48
+False Positives (Healthy labeled as PD): 28
+False Negatives (PD labeled as Healthy): 0
