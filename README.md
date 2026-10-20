@@ -116,18 +116,7 @@ The ML models are trained on a comprehensive **multi-source clinical dataset**:
 - **Samples:** 5,875+ voice recordings from 252 subjects.
 - **Features:** 22 biomedical speech features.
 
----
 
-## 👥 Team Members — Batch 14
-
-| Name                     | Roll Number   |
-|--------------------------|---------------|
-| Sampathi Purna Ganesh    | 22BQ1A05J2    |
-| Vatti Harika             | 22BQ1A05M9    |
-| Thokala Karthik          | 22BQ1A05L6    |
-| Perugu Manoj             | 22BQ1A05I8    |
-
-**Guide:** Mr. S. Narendra, M.Tech, (Ph.D) — Assistant Professor
 
 ---
 
