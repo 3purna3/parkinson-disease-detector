@@ -116,7 +116,9 @@ The ML models are trained on a comprehensive **multi-source clinical dataset**:
 - **Samples:** 5,875+ voice recordings from 252 subjects.
 - **Features:** 22 biomedical speech features.
 
-
+## Technologies and Frameworks:
+  ***Python, Pandas, NumPy, scikit-learn, random forest classifier, patient voice recordings with extracted vocal features, 
+  CSV files (database, not confirmed), Git, and GitHub.
 
 ---
 
